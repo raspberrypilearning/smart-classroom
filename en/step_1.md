@@ -1,20 +1,27 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+In this project you will make a virtual classroom that can react to what
+you say to it. You’ll be able to control the virtual devices in the classroom by saying
+what you want.
+To start with, you’ll program a list of rules for understanding
+commands, and learn why that approach isn’t very good.
+Next, you will teach the computer to recognise commands for
+different devices by giving it examples of each.
 
 ### What you will make
 
---- no-print ---
-Add instructions for using the embedded content here.
+![Complete project](images/what-you-will-make.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+--- collapse ---
+---
+title: What you will learn
+---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
++ How to train and test a machine learning modal
++ Why this approach is better than using a long list of rules
++ How confidence scores can improve the user experience
+
+--- /collapse ---
 
 --- collapse ---
 ---
@@ -22,27 +29,11 @@ title: What you will need
 ---
 ### Hardware
 
-+ Describe hardware here
++ A computer connected to the internet
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Two or three learning objectives
-+ ...should go here
++ An account on machinelearningforkids.co.uk (optional)
 
 --- /collapse ---
 
@@ -51,8 +42,8 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/smart-classroom/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+[Here is a link to the resources for this project -TODO-](http://rpf.io/project-name-go).
 
 --- /collapse ---

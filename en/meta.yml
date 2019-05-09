@@ -1,11 +1,18 @@
-title: smart-classroom
+title: Smart Classroom
 hero_image: images/banner.png
-description: smart-classroom description
+description: Create a virtual Classroom that reacts to commands
 version: 4
 listed: false
 copyedit: false
 last_tested: "2019-05-09"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Creating a project
+  - title: Using a list of rules
+  - title: Collect examples for your machine learning modal
+  - title: Training and testing your machine learning model
+  - title: Using your machine learning model in Scratch
+  - title: Confidence scores
+  - title: "Challenge: more devices"
+    challenge: true
   - title: What next?

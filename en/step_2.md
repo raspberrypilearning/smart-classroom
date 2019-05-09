@@ -1,3 +1,3 @@
-## Step title
+## Creating a project
 
 + Step content...
