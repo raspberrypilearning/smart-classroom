@@ -1,11 +1,14 @@
 ## Creating a project
 
+--- task ---
 + Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/) in a web browser. 
 
 + Click on **Get Started**
 
 + **If** you have an account, click on **Log In** and type your username and password. Otherwise, click on **Try it now**
+--- /task ---
 
+--- task ---
 + Click on **Projects** on the top menu bar
 
 + Click the **+ Add a new project** button.
@@ -15,7 +18,9 @@
 
 + You should see “smart classroom” in the projects list. Click on it.
 ![Project list with smart classroom listed](images/projects-list.png)
+--- /task ---
 
+--- task ---
 + We’ll start by getting a project ready in Scratch. Click **Make**
 ![Project main menu](images/project-make.png)
 
@@ -28,3 +33,4 @@
 
 + Click on the **Smart Classroom** template
 ![Scratch template project](images/scratch-template.png)
+--- /task ---
