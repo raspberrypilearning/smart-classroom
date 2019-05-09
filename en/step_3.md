@@ -3,7 +3,7 @@
 In this step, you will edit the template project to include a list of rules to activate and de-activate the fan and the lamp.
 
 --- task ---
-+ Click the “**classroom**” sprite so that it is selected as shown below.
++ Click the **classroom** sprite so that it is selected as shown below.
 ![Scratch template project](images/scratch-template-annotated.png)
 
 + Click on the **Scripts** tab and enter the following script. 
