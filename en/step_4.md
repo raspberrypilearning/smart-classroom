@@ -30,6 +30,17 @@ For “fan off” you could complain that it’s too breezy.
 For “lamp on” you could complain that it’s too dark or that you can’t see. 
 For “lamp off” you could complain that it’s too bright.
 ![4 empty classes named fan_on, fan_off, lamp_on and lamp_off](images/full-buckets.png)
+
+--- collapse ---
+---
+title: Tips for selecting good examples
+---
++ **More examples!**: The more examples you give it, the better the computer should get at recognising your instructions. 
+
++ **Try and be even**: Try and come up with roughly the same number of examples for each command. If you have a lot of examples for one command, and not the others, the computer might learn that command is more likely, so you’ll affect the way that it learns to recognise messages. 
+
++ **Mix things up with your examples**: Try to come up with lots of different types of examples. For example, make sure that you include some long examples and some very short ones. 
+--- /collapse ---
 --- /task ---
 
 In the next step you will train your machine to recognise any command and automatically put it in one of the 4 buckets based on the examples you have added.
