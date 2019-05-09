@@ -32,5 +32,6 @@
 ![Scratch menu bar](images/project-templates-annotated.png)
 
 + Click on the **Smart Classroom** template
-![Scratch template project](images/scratch-template-annotated.png)
+
+![Scratch template project](images/scratch-template.png)
 --- /task ---
