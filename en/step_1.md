@@ -1,12 +1,8 @@
 ## Introduction
 
-In this project you will make a virtual classroom that can react to what
-you say to it. You’ll be able to control the virtual devices in the classroom by saying
-what you want.
-To start with, you’ll program a list of rules for understanding
-commands, and learn why that approach isn’t very good.
-Next, you will teach the computer to recognise commands for
-different devices by giving it examples of each.
+In this project you will use [machinelearningforkids.co.uk](machinelearningforkids.co.uk) to make a virtual classroom that can react to what you say to it. You’ll be able to control the virtual devices in the classroom by saying what you want.
+To start with, you’ll program a list of rules for understanding commands, and learn why that approach isn’t very good.
+Next, you will teach the computer to recognise commands for different devices by giving it examples of each.
 
 ### What you will make
 
@@ -17,7 +13,7 @@ different devices by giving it examples of each.
 title: What you will learn
 ---
 
-+ How to train and test a machine learning modal
++ How to train and test a machine learning model
 + Why this approach is better than using a long list of rules
 + How confidence scores can improve the user experience
 

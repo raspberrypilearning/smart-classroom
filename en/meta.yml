@@ -9,7 +9,7 @@ steps:
   - title: Introduction
   - title: Creating a project
   - title: Using a list of rules
-  - title: Collect examples for your machine learning modal
+  - title: Collect examples for your machine learning model
   - title: Training and testing your machine learning model
   - title: Using your machine learning model in Scratch
   - title: Confidence scores
