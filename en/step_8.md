@@ -1,4 +1,4 @@
-## ## Challenge: more devices
+## Challenge: more devices
 
 --- challenge ---
 --- task ---

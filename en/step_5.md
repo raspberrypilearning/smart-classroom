@@ -8,7 +8,7 @@
 ![Annotation pointing to train new machine learning model button](images/train-new-model-annotated.png)
 --- /task ---
 
-+ Wait for the training to complete. This might take a minute or two. While waiting, try to complete the machine-learning multi-choice quiz at the bottom of the page.
+Wait for the training to complete. This might take a minute or two. While waiting, try to complete the machine-learning multi-choice quiz at the bottom of the page.
 
 --- task ---
 Once the training has completed, a Test box will be displayed. Try testing your machine learning model to see what it has learned. 
