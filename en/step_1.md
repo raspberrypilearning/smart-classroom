@@ -43,3 +43,8 @@ If you need to print this project, please use the [printer-friendly version](htt
 [Here is a link to the resources for this project -TODO-](http://rpf.io/project-name-go).
 
 --- /collapse ---
+
+### License
+
+This project is licensed under a Creative Commons Attribution Non-Commercial Share-Alike License
+http://creativecommons.org/licenses/by-nc-sa/4.0/
