@@ -1,6 +1,6 @@
 # Contributing
 
-All contributions are assumed to be licensed under the same licence as the source, i.e. [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/). This licence must remain in all derivatives of this work.
+All contributions are assumed to be licensed under the same licence as the source. This licence must remain in all derivatives of this work.
 
 ## Issues
 
