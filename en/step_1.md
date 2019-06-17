@@ -6,7 +6,17 @@ Next, you will teach the computer to recognise commands for different devices by
 
 ### What you will make
 
+--- print-only ---
+
 ![Complete project](images/what-you-will-make.png)
+
+--- /print-only ---
+
+--- no-print ---
+
+![Complete project GIF](images/smart-classroom.gif)
+
+--- /no-print ---
 
 --- collapse ---
 ---
