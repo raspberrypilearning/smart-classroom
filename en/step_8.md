@@ -14,7 +14,7 @@ If you choose a number that is too low, the computer will get too many things wr
 --- /task ---
 
 --- task ---
-**Do it for real!** Have a look at the smart assistants that developers have made for Amazon’s Alexa : [http://amzn.to/2sxy1hw](http://amzn.to/2sxy1hw) 
+**Do it for real!** Have a look at the smart assistants that developers have made for Amazon’s Alexa : [http://amzn.to/2sxy1hw](http://amzn.to/2sxy1hw){:target="_blank"}
  
 Developers made these in the same way that you did this project – creating labels for the commands they wanted it to recognise, and then collecting examples of how those commands might be phrased to train the Alexa to be able to understand them. 
  

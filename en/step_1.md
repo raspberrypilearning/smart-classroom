@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project you will use [machinelearningforkids.co.uk](machinelearningforkids.co.uk) to make a virtual classroom that can react to what you say to it. You’ll be able to control the virtual devices in the classroom by saying what you want.
+In this project you will use [machinelearningforkids.co.uk](machinelearningforkids.co.uk){:target="_blank"} to make a virtual classroom that can react to what you say to it. You’ll be able to control the virtual devices in the classroom by saying what you want.
 To start with, you’ll program a list of rules for understanding commands, and learn why that approach isn’t very good.
 Next, you will teach the computer to recognise commands for different devices by giving it examples of each.
 
@@ -50,7 +50,7 @@ title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/smart-classroom/print){:target="_blank"}.
 
-[Here is a link to the resources for this project -TODO-](http://rpf.io/project-name-go).
+[Here is a link to the resources for this project -TODO-](http://rpf.io/project-name-go){:target="_blank"}.
 
 --- /collapse ---
 
