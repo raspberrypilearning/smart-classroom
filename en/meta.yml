@@ -1,18 +1,18 @@
-title: Smart Classroom
+title: Smart classroom assistant
 hero_image: images/banner.png
-description: Create a virtual Classroom that reacts to commands
+description: Create a virtual classroom assistant that reacts to commands
 version: 4
 listed: false
 copyedit: false
 last_tested: "2019-05-09"
 steps:
   - title: Introduction
-  - title: Creating a project
-  - title: Using a list of rules
-  - title: Collect examples for your machine learning model
-  - title: Training and testing your machine learning model
-  - title: Using your machine learning model in Scratch
-  - title: Confidence scores
-  - title: "Challenge: more devices"
+  - title: How to create a project
+  - title: Add a list of rules
+  - title: Collect examples for training
+  - title: Train and test a machine learning model
+  - title: Use the machine learning model in Scratch
+  - title: How to use confidence scores
+  - title: "Challenge: more items to control"
     challenge: true
   - title: What next?

@@ -1,37 +1,42 @@
-## Creating a project
+## How to create a project
 
 --- task ---
 + Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser. 
 
 + Click on **Get Started**
 
-+ **If** you have an account, click on **Log In** and type your username and password. Otherwise, click on **Try it now**
++ **If you have an account**, click on **Log In** and type in your username and password. 
+
+**If you don't have an account**, click on **Try it now**.
 --- /task ---
 
 --- task ---
-+ Click on **Projects** on the top menu bar
++ Click on **Projects** in the menu bar at the top.
 
-+ Click the **+ Add a new project** button.
++ Click on the **+ Add a new project** button.
 
-+ Name your project “smart classroom” and set it to learn how to recognise **“text”**.  Click **Create**
++ Name your project 'smart classroom' and set it to learn to recognise **text**.  Then click on **Create**.
 ![Creating a project](images/create-project-annotated.png)
 
-+ You should see “smart classroom” in the projects list. Click on it.
++ You should now see 'smart classroom' in the projects list. Click on this project.
 ![Project list with smart classroom listed](images/projects-list-annotated.png)
 --- /task ---
 
 --- task ---
-+ We’ll start by getting a project ready in Scratch. Click **Make**
+
+Now get a project ready in Scratch. 
+
++ Click on **Make**.
 ![Project main menu](images/project-make-annotated.png)
 
-+ Click **Scratch 3**
++ Click on **Scratch 3**.
 
-+ Click **Scratch by itself**. The page will warn you that you haven’t done any machine learning yet, but clicking on **Scratch by itself** will launch Scratch.
++ Click on **Scratch by itself**. The page then warns you that you haven’t done any machine learning yet. Click on **Scratch by itself** to launch Scratch.
 
-+ Click on **Project templates**
++ Click on **Project templates**.
 ![Scratch menu bar](images/project-templates-annotated.png)
 
-+ Click on the **Smart Classroom** template
++ Click on the **Smart Classroom** template.
 
 ![Scratch template project](images/scratch-template.png)
 --- /task ---

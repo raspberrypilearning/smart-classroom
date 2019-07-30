@@ -1,26 +1,38 @@
-## Confidence scores
+## How to use confidence scores
 
-Finally let's have a look at confidence scores.
+Finally, you will learn about what confidence scores mean and how you should use them.
 
 --- task ---
-+ Leave Scratch open (we’ll come back in a moment) but go back to the **Learn & Test** page in the Training tool.
++ Leave Scratch open, because you will come back in a moment. 
 
-+ Type something in the Test box that has nothing to do with lamps or fans. For example, “make me a cheese sandwich”
++ Go back to the **Learn & Test** page in the Training tool.
+
++ Type something that has nothing to do with lamps or fans into the test box. For example, you could type in 'make me a cheese sandwich'.
 ![Result of entering "make me a cheese sandwich" is lamp off with 21% confidence](images/cheese-sandwich-annotated.png)
 
-+ Look at the confidence score, and check that it’s very low. Compare this with the score you get from commands like “turn on the lamp”. **This is the computer’s way of telling you that it’s not very certain it understands your command, because it doesn’t look like what it learned from your examples.**
++ Look at the confidence score, which should be very low.
+
++ Compare this with the confidence score you get for a command such as “turn on the lamp”.
+
+**The confidence score is the program’s way of telling you how certain it is that it understands a command.** If a command is very similar to the examples you have trained the program with, the confidence score is high. If a command is **not** similar, the confidence score is low.
+
 --- /task ---
 
 --- task ---
-+ Go back to Scratch. You can open your saved project from before if you closed the window.
 
-+ Modify the script for the “classroom” sprite so that it uses this confidence score.
++ Go back to your classroom assistant project in Scratch.
+
++ Modify the script for the 'classroom' sprite so that it uses the confidence score:
+
 ![New code to be added into scratch program](images/code-with-confidence.png)
 
-+ Click the green flag and test again. Try typing commands that have nothing to do with the fan or lamp. Try asking for something to be turned on or off. Check that your classroom reacts in the right way.
++ Click the green flag and test your program to check that your classroom assistant reacts in the right way:
+    + Type in commands that have nothing to do with the fan or lamp
+    + Ask for something to be turned on or off
+
+Now, if your program is not sure what you mean, it tells you so. Then you can try giving it another command.
 --- /task ---
 
-You’ve trained a smart assistant – like a simple version of the assistants you can get on modern smartphones (like Apple’s Siri or Google’s Assistant) or virtual assistant devices (like Amazon’s Alexa or Google’s Home).
-You’ve used it to create a smart classroom assistant in Scratch, using machine learning instead of your earlier rules-based approach. 
-Training the computer to be able to recognise instructions was hopefully much easier than trying to make a list of every possible command. And the more examples you give it, the better it gets at recognising instructions and the more confident it gets in doing that. 
-And now, if it’s not sure what you mean, it will ask you to try again.
+You’ve used machine learning to train a smart assistant that is a simple version of the assistants you can get on smartphones (e.g. Apple’s Siri or Google’s Assistant) or at home (e.g. Amazon’s Alexa or Google’s Home).
+
+Training the program to recognise commands is much easier than trying to make a list of every possible command. And the more examples you give the program, the better it gets at recognising commands, and the more its confidence scores increase. 

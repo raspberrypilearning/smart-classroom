@@ -1,8 +1,10 @@
 ## Introduction
 
-In this project you will use [machinelearningforkids.co.uk](machinelearningforkids.co.uk){:target="_blank"} to make a virtual classroom that can react to what you say to it. You’ll be able to control the virtual devices in the classroom by saying what you want.
-To start with, you’ll program a list of rules for understanding commands, and learn why that approach isn’t very good.
-Next, you will teach the computer to recognise commands for different devices by giving it examples of each.
+In this project you will use [machinelearningforkids.co.uk](machinelearningforkids.co.uk){:target="_blank"} to make a smart virtual classroom assistant that reacts to what you say to it. You’ll be able to control the virtual devices in the classroom by typing in commands!
+
+First, you’ll create an assistant that uses a list of rules for understanding commands, and you'll learn why that approach isn’t very good.
+
+Next, you will teach the assistant to recognise commands for different devices by training it using examples of each command.
 
 ### What you will make
 
@@ -39,7 +41,7 @@ title: What you will need
 
 ### Software
 
-+ An account on machinelearningforkids.co.uk (optional)
++ An account on [machinelearningforkids.co.uk](machinelearningforkids.co.uk){:target="_blank"} (optional)
 
 --- /collapse ---
 
@@ -54,6 +56,6 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 --- /collapse ---
 
-### License
+### Licence
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
+This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
