@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project you will use [machinelearningforkids.co.uk](machinelearningforkids.co.uk){:target="_blank"} to make a smart virtual classroom assistant that reacts to what you say to it. You’ll be able to control the virtual devices in the classroom by typing in commands!
+In this project you will use [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk){:target="_blank"} to make a smart virtual classroom assistant that reacts to what you say to it. You’ll be able to control the virtual devices in the classroom by typing in commands!
 
 First, you’ll create an assistant that uses a list of rules for understanding commands, and you'll learn why that approach isn’t very good.
 
@@ -41,7 +41,7 @@ title: What you will need
 
 ### Software
 
-+ An account on [machinelearningforkids.co.uk](machinelearningforkids.co.uk){:target="_blank"} (optional)
++ An account on [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk){:target="_blank"} (optional)
 
 --- /collapse ---
 
@@ -51,8 +51,6 @@ title: Additional information for educators
 ---
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/smart-classroom/print){:target="_blank"}.
-
-[Here is a link to the resources for this project -TODO-](http://rpf.io/project-name-go){:target="_blank"}.
 
 --- /collapse ---
 
