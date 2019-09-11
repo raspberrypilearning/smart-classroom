@@ -35,13 +35,8 @@ title: What you will learn
 ---
 title: What you will need
 ---
-### Hardware
 
 + A computer connected to the internet
-
-### Software
-
-+ An account on [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk){:target="_blank"} (optional)
 
 --- /collapse ---
 
