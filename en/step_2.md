@@ -5,9 +5,7 @@
 
 + Click on **Get Started**
 
-+ **If you have an account**, click on **Log In** and type in your username and password. 
-
-**If you don't have an account**, click on **Try it now**.
++ Click on **Try it now**.
 --- /task ---
 
 --- task ---
