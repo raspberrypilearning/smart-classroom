@@ -1,4 +1,7 @@
 ## What next?
 
-Link to next project in the series or another project that could be completed after this
-To be filled in when pathway order is decided
+If you haven't already, try our other machine learning with Scratch projects.
+
+[Journey to school](https://projects.raspberrypi.org/en/projects/journey-to-school)
+
+[Alien language](https://projects.raspberrypi.org/en/projects/alien-language)
