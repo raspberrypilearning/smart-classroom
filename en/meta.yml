@@ -2,7 +2,7 @@ title: Smart classroom assistant
 hero_image: images/banner.png
 description: Create a virtual classroom assistant that reacts to commands
 version: 4
-listed: false
+listed: true
 copyedit: true
 last_tested: "2019-05-09"
 steps:
