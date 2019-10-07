@@ -33,7 +33,7 @@ The `recognise text … (label)` block is a new block added by your project. Thi
 --- task ---
 + Click the **green flag** to test again.
 
-![Testing new code from previous instruction](images/test-with-new-blocks-annotated)
+![Testing new code from previous instruction](images/test-with-new-blocks-annotated.png)
 
 + Test your project: type a command and press <kbd>Enter</kbd> on your keyboard. The fan or lamp should react to your command.
 
