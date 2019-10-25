@@ -15,7 +15,7 @@ You need to collect some examples to train the computer. To collect different ex
 + To create a bucket, click on **+ Add new label** and call the bucket “fan on”. Click on **+ Add new label** again and create a second bucket called “fan off”. Create a third and a fourth bucket called “lamp on” and "lamp off".
 ![4 empty classes named fan_on, fan_off, lamp_on and lamp_off](images/empty-buckets.png)
 
-+ Click on the **Add example** button in the “fan on” bucket, and type in a command asking for the fan to be turned on. For example, you could type n “Please can you switch on the fan”. 
++ Click on the **Add example** button in the “fan on” bucket, and type in a command asking for the fan to be turned on. For example, you could type “Please can you switch on the fan”. 
 
 + Click on the **Add example** button in the “fan off” bucket, and type in a command asking for the fan to be switched off. For example, you could type “I want the fan off now”.
 
