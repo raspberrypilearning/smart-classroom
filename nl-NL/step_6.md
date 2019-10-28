@@ -13,7 +13,7 @@ Werk nu je Scratch-programma bij met je machine learning-model in plaats van een
 
 + Klik op **Openen in Scratch 3**.
 
-![annotation pointing at Open in scratch 3 button](images/open-scratch-3-annotated.png)
+![annotatie wijzend op Open in scratch 3 knop](images/open-scratch-3-annotated.png)
 
 + Klik op **Bestand** en vervolgens op **Uploaden vanaf je computer**en selecteer het eerder opgeslagen Scratch-project.
 
@@ -23,25 +23,25 @@ Werk nu je Scratch-programma bij met je machine learning-model in plaats van een
 
 \--- task \---
 
-+ Click on the **Code** tab, and update your Scratch code to use your machine learning model **instead** of the rules you first added.
++ Klik op het tabblad **Code** en werk je Scratch-code bij om je machine learning-model te gebruiken **in plaats** van de regels die je eerst hebt toegevoegd.
 
-The `recognise text … (label)` block is a new block added by your project. This new block can receive a message and return one of the four labels, based on the machine learning model you have trained.
+Het blok `herkennen tekst … (label)` is een nieuw blok dat door je project is toegevoegd. Dit nieuwe blok kan een bericht ontvangen en een van de vier labels retourneren, op basis van het door jouw getrainde machine-leermodel.
 
-![New scratch code including new machine learning blocks](images/code-new-blocks.png) \--- /task \---
+![Nieuwe scratch-code inclusief nieuwe machine learning blokken](images/code-new-blocks.png) \---/task\---
 
 \--- task \---
-+ Click the **green flag** to test again.
++ Klik op de **groene vlag** om opnieuw te testen.
 
-![Testing new code from previous instruction](images/test-with-new-blocks-annotated)
+![Testen van nieuwe code van vorige instructie](images/test-with-new-blocks-annotated)
 
-+ Test your project: type a command and press <kbd>Enter</kbd> on your keyboard. The fan or lamp should react to your command.
++ Test je project: typ een opdracht en druk op <kbd>Enter</kbd> op je toetsenbord. De ventilator of lamp moet op je commando reageren.
 
 Make sure you test that this works **even for commands that you didn’t include as examples in the buckets.**
 
-+ Save your project: click on **File** and then on **Save to your computer**. \--- /task \---
++ Sla je project op: klik op **Bestand** en vervolgens op **Opslaan op je computer**. \---/task\---
 
-Now your Scratch smart virtual classroom uses a machine learning model instead of a rules-based approach.
+Nu gebruikt je slimme virtuele klaslokaal in Scratch een machine learning-model in plaats van een op regels gebaseerde aanpak.
 
-Using machine learning is better than using rules, because training a program to recognise commands for itself is much quicker than trying to make a list of every possible command.
+Machine learning gebruiken is beter dan regels gebruiken, omdat het trainen van een programma om opdrachten voor zichzelf te herkennen veel sneller is dan proberen een lijst te maken van alle mogelijke opdrachten.
 
-The more examples you use to train the machine learning model, the better your program should get at recognising commands.
+Hoe meer voorbeelden je gebruikt om het machine learning-model te trainen, hoe beter je programma zou moeten worden in het herkennen van opdrachten.
