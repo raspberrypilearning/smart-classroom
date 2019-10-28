@@ -8,7 +8,7 @@
 \--- task \---
 + Klik op de knop **Train**. ![Project hoofdmenu](images/project-train-annotated.png)
 
-Je moet enkele voorbeelden verzamelen om de computer te trainen. Om verschillende voorbeelden te verzamelen, moet je 'emmers' maken om de voorbeelden in te plaatsen.
+Je moet enkele voorbeelden verzamelen om de computer te trainen. To collect different examples, you need to create 'buckets' to put the examples in.
 
 + Om een emmer te maken, klik op **+ Voeg een nieuw label toe** en noem de emmer “ventilator aan”. Klik weer op **+ Voeg een nieuw label toe** en maak een tweede emmer met de naam "ventilator uit". Maak een derde en een vierde emmer genaamd "lamp aan" en "lamp uit". ![4 lege klassen genaamd ventilator_aan, ventilator_uit, lamp_aan en lamp_uit](images/empty-buckets.png)
 
