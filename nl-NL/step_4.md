@@ -6,11 +6,11 @@
 + Klik op de link **< Terug naar project**. \---/task\---
 
 \--- task \---
-+ Klik op de knop **Train**. ![Project main menu](images/project-train-annotated.png)
++ Klik op de knop **Train**. ![Project hoofdmenu](images/project-train-annotated.png)
 
 Je moet enkele voorbeelden verzamelen om de computer te trainen. Om verschillende voorbeelden te verzamelen, moet je 'emmers' maken om de voorbeelden in te plaatsen.
 
-+ Om een emmer te maken, klik op **+ Voeg een nieuw label toe** en noem de emmer “ventilator aan”. Klik weer op **+ Voeg een nieuw label toe** en maak een tweede emmer met de naam "ventilator uit". Maak een derde en een vierde emmer genaamd "lamp aan" en "lamp uit". ![4 empty classes named fan_on, fan_off, lamp_on and lamp_off](images/empty-buckets.png)
++ Om een emmer te maken, klik op **+ Voeg een nieuw label toe** en noem de emmer “ventilator aan”. Klik weer op **+ Voeg een nieuw label toe** en maak een tweede emmer met de naam "ventilator uit". Maak een derde en een vierde emmer genaamd "lamp aan" en "lamp uit". ![4 lege klassen genaamd ventilator_aan, ventilator_uit, lamp_aan en lamp_uit](images/empty-buckets.png)
 
 + Klik op de knop **Voeg een voorbeeld toe** in de emmer 'ventilator aan' en typ een opdracht waarin wordt gevraagd om de ventilator aan te zetten. Je kunt bijvoorbeeld typen "Kun je de ventilator inschakelen".
 
@@ -23,25 +23,25 @@ Je moet enkele voorbeelden verzamelen om de computer te trainen. Om verschillend
 \--- task \---
 + Continue to **Add example**s until you have at least **six** examples in **each** bucket.
 
-Be imaginative! Try and think of lots of different ways to ask each command. For example:
+Wees fantasierijk! Probeer verschillende manieren te bedenken om elke opdracht te geven. Bijvoorbeeld:
 
-+ For “fan on”, you could complain that you’re too hot.
-+ For “fan off”, you could complain that it’s too breezy.
-+ For “lamp on”, you could complain that you can’t see.
-+ For “lamp off”, you could complain that it’s too bright.
++ Voor "ventilator aan", zou je kunnen klagen dat je het te warm hebt.
++ Voor "ventilator uit", zou je kunnen klagen dat het te fris is.
++ Voor "lamp aan", zou je kunnen klagen dat je niet kunt zien.
++ Voor "lamp uit", zou je kunnen klagen dat het te fel is.
 
-![4 empty classes named fan_on, fan_off, lamp_on and lamp_off](images/full-buckets.png)
+![4 gevulde klassen genaamd ventilator_aan, ventilator_uit, lamp_aan en lamp_uit](images/full-buckets.png)
 
 \--- collapse \---
 ---
-title: Tips for selecting good examples
+title: Tips voor het selecteren van goede voorbeelden
 ---
-+ **More is good**: the more examples you give your program, the better the program should get at recognising your commands.
++ **Meer is goed**: hoe meer voorbeelden je geeft aan je programma, hoe beter het programma zou moeten worden in het herkennen van je opdrachten.
 
-+ **Equal numbers**: add roughly the same number of examples for each command. If you have a lot of examples for one command and not the others, this can affect the way that the program learns to recognise commands.
++ **Gelijke getallen**: voeg ongeveer hetzelfde aantal voorbeelden toe voor elke opdracht. Als je veel voorbeelden voor één opdracht hebt en niet voor de andere, kan dit de manier beïnvloeden waarop het programma opdrachten leert herkennen.
 
-+ **Make the examples really different from each other**: try to come up with lots of different types of examples. For example, make sure that you include some long examples and some very short ones.
++ **Maak de voorbeelden echt verschillend van elkaar**: probeer veel verschillende soorten voorbeelden te bedenken. Zorg er bijvoorbeeld voor dat je enkele lange en zeer korte voorbeelden toevoegt.
 
 \--- /collapse \--- \--- /task \---
 
-In the next step you will train your program to recognise any new command automatically by comparing it to the examples in the four buckets.
+In de volgende stap zult je je programma trainen om elke nieuwe opdracht automatisch te herkennen door deze te vergelijken met de voorbeelden in de vier emmers.
