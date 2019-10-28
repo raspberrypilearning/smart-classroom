@@ -1,28 +1,28 @@
 ---
-title: Smart classroom assistant
+title: Slimme klassenassistent
 hero_image: images/banner.png
-description: Create a virtual classroom assistant that reacts to commands
+description: Maak een virtuele klassenassistent die op opdrachten reageert
 version: 4
 listed: true
 copyedit: true
 last_tested: "2019-05-09"
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: How to create a project
+    title: Hoe maak je een project
   - 
-    title: Add a list of rules
+    title: Voeg een lijst met regels toe
   - 
-    title: Collect examples for training
+    title: Verzamel voorbeelden voor training
   - 
-    title: Train and test a machine learning model
+    title: Train en test een machine learning-model
   - 
-    title: Use the machine learning model in Scratch
+    title: Gebruik het machine learning-model in Scratch
   - 
-    title: How to use confidence scores
+    title: Hoe betrouwbaarheidsscores te gebruiken
   - 
-    title: "Challenge: more items to control"
+    title: "Uitdaging: meer items om te besturen"
     challenge: true
   - 
-    title: What next?
+    title: Wat kun je verder nog doen?
