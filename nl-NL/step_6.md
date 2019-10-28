@@ -1,15 +1,15 @@
-## Use the machine learning model in Scratch
+## Gebruik het machine learning-model in Scratch
 
-Now update your Scratch program to include your machine learning model instead of a rules-based approach.
+Werk nu je Scratch-programma bij met je machine learning-model in plaats van een op regels gebaseerde aanpak.
 
 \--- task \---
-+ Click on the **< Back to project** link.
++ Klik op de link **<Terug naar project**.
 
-+ Click on **Make**.
++ Klik op **Maak**.
 
-+ Click on **Scratch 3**.
++ Klik op **Scratch 3**.
 
-+ Read the instructions on the page to learn how to use machine learning blocks in Scratch.
++ Lees de instructies op de pagina voor meer informatie over het gebruik van machine learning-blokken in Scratch.
 
 + Click on **Open in Scratch 3**.
 
