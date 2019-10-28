@@ -1,7 +1,7 @@
-## What next?
+## Wat kun je verder nog doen?
 
-If you haven't already, try our other machine learning with Scratch projects.
+Probeer onze andere machine learning met Scratch-projecten als je dat nog niet hebt gedaan.
 
-[Journey to school](https://projects.raspberrypi.org/en/projects/journey-to-school)
+[Reis naar school](https://projects.raspberrypi.org/en/projects/journey-to-school)
 
-[Alien language](https://projects.raspberrypi.org/en/projects/alien-language)
+[Vreemde taal](https://projects.raspberrypi.org/en/projects/alien-language)
