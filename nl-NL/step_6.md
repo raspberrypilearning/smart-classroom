@@ -23,7 +23,7 @@ Werk nu je Scratch-programma bij met je machine learning-model in plaats van een
 
 \--- task \---
 
-+ Klik op het tabblad **Code** en werk je Scratch-code bij om je machine learning-model **in plaats** van de regels die je eerst hebt toegevoegd.
++ Click on the **Code** tab, and update your Scratch code to use your machine learning model **instead** of the rules you first added.
 
 The `recognise text … (label)` block is a new block added by your project. This new block can receive a message and return one of the four labels, based on the machine learning model you have trained.
 
