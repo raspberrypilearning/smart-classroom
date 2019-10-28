@@ -7,7 +7,7 @@ Ten slotte leer je wat betrouwbaarheidsscores betekenen en hoe je ze moet gebrui
 
 + Ga terug naar de pagina **Leer & Test** in de trainingstool.
 
-+ Typ iets dat niets te maken heeft met lampen of ventilatoren in de testbox. Je kunt bijvoorbeeld typen 'geef me een boterham met kaas'. ![Result of entering "make me a cheese sandwich" is lamp off with 21% confidence](images/cheese-sandwich-annotated.png)
++ Typ iets dat niets te maken heeft met lampen of ventilatoren in de testbox. Je kunt bijvoorbeeld typen 'geef me een boterham met kaas'. ![Resultaat van het invoeren van "geef me een boterham met kaas" is lamp aan met 3% vertrouwen](images/cheese-sandwich-annotated.png)
 
 + Kijk naar de betrouwbaarheidsscore, die erg laag zou moeten zijn.
 
@@ -19,18 +19,18 @@ Ten slotte leer je wat betrouwbaarheidsscores betekenen en hoe je ze moet gebrui
 
 \--- task \---
 
-+ Go back to your classroom assistant project in Scratch.
++ Ga terug naar je klassenassistent-project in Scratch.
 
-+ Modify the script for the 'classroom' sprite so that it uses the confidence score:
++ Wijzig het script voor de 'klas' sprite zodat deze de betrouwbaarheidsscore gebruikt:
 
-![New code to be added into scratch program](images/code-with-confidence.png)
+![Nieuwe code die in het scratch-programma moet worden toegevoegd](images/code-with-confidence.png)
 
-+ Click the green flag and test your program to check that your classroom assistant reacts in the right way:
-    + Type in commands that have nothing to do with the fan or lamp
-    + Ask for something to be turned on or off
++ Klik op de groene vlag en test je programma om te controleren of jouw klassenassistent op de juiste manier reageert:
+    + Typ opdrachten in die niets met de ventilator of lamp te maken hebben
+    + Vraag om iets aan of uit te zetten
 
-Now, if your program is not sure what you mean, it tells you so. Then you can try giving it another command. \--- /task \---
+Als je programma niet zeker weet wat je bedoelt, zegt het je dat. Dan kun je proberen het een andere opdracht te geven. \--- /task \---
 
-You’ve used machine learning to train a smart assistant that is a simple version of the assistants you can get on smartphones (e.g. Apple’s Siri or Google’s Assistant) or at home (e.g. Amazon’s Alexa or Google’s Home).
+Je hebt machine learning gebruikt om een slimme assistent te trainen, een eenvoudige versie van de assistenten die je op smartphones kunt krijgen (bijvoorbeeld Apple's Siri of Google's Assistent) of thuis (bijvoorbeeld Amazon's Alexa of Google's Home).
 
-Training the program to recognise commands is much easier than trying to make a list of every possible command. And the more examples you give the program, the better it gets at recognising commands, and the more its confidence scores increase. 
+Het programma trainen om opdrachten te herkennen is veel eenvoudiger dan proberen een lijst te maken van alle mogelijke opdrachten. En hoe meer voorbeelden je het programma geeft, hoe beter het wordt in het herkennen van opdrachten en hoe meer de betrouwbaarheidsscores toenemen. 
