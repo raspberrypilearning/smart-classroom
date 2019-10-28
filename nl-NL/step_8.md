@@ -1,35 +1,35 @@
-## Challenge: more items to control
+## Uitdaging: meer items om te controleren
 
 \--- challenge \--- \--- task \---
 
-**Add another item**
+**Voeg nog een item toe**
 
-+ In addition to a fan and a lamp, can you add another item and train your smart classroom assistant to understand your commands for controlling the item?
++ Kun je naast een ventilator en een lamp een ander item toevoegen en je slimme klassenassistent trainen om je opdrachten voor het besturen van het item te begrijpen?
 
-\--- /task \---
-
-\--- task \---
-
-**Try our different confidence scores**
-
-+ Is 70% the correct confidence score for deciding whether the smart classroom assistant has recognised a command correctly? Experiment with different confidence scores until you have a value that works well for your machine learning model.
-
-If you choose a number that is too high, the assistant will say “Sorry I’m not sure what you mean” too often.
-
-If you choose a number that is too low, the assistant will get too many things wrong. \--- /task \---
+\---/task\---
 
 \--- task \---
 
-**Real smart assistants**
+**Probeer onze verschillende betrouwbaarheidsscores**
 
-People have made [their own smart assistants based on Amazon’s Alexa](http://amzn.to/2sxy1hw){:target="_blank"}.
++ Is 70% de juiste betrouwbaarheidsscore om te beslissen of de slimme klassenassistent een opdracht correct heeft herkend? Experimenteer met verschillende betrouwbaarheidsscores totdat je een waarde hebt die goed werkt voor jouw machine learning-model.
 
-People make these assistants the same way that you made yours:
+Als je een te hoog getal kiest, zegt de assistent te vaak "Sorry, ik weet niet zeker wat je bedoelt".
+
+Als je een te laag getal kiest, krijgt de assistent teveel dingen fout. \--- /task \---
+
+\--- task \---
+
+**Echte slimme assistenten**
+
+Mensen hebben [hun eigen slimme assistenten gemaakt op basis van Alexa van Amazon](http://amzn.to/2sxy1hw){:target="_blank"}.
+
+Mensen maken deze assistenten op dezelfde manier als jij:
 1. First, they create buckets for the types of commands they want their assistants to recognise
-1. Then they collect examples of how the commands might be phrased and trained the Alexa-based assistant to understand them
+1. Vervolgens verzamelen ze voorbeelden van hoe de opdrachten kunnen worden geformuleerd en trainden ze de op Alexa gebaseerde assistent om ze te begrijpen
 
-+ Find an Alexa Skill that you find interesting and look at the commands it can understand. How would you have trained this program?
++ Zoek een Alexa Skill die je interessant vindt en bekijk de opdrachten die het kan begrijpen. Hoe zou je dit programma hebben getraind?
 
-\--- /task \---
+-- /task \---
 
 \--- /challenge \---
