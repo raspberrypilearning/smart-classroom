@@ -10,18 +10,18 @@
 
 Je moet enkele voorbeelden verzamelen om de computer te trainen. To collect different examples, you need to create 'buckets' to put the examples in.
 
-+ Om een emmer te maken, klik op **+ Voeg een nieuw label toe** en noem de emmer “ventilator aan”. Klik weer op **+ Voeg een nieuw label toe** en maak een tweede emmer met de naam "ventilator uit". Maak een derde en een vierde emmer genaamd "lamp aan" en "lamp uit". ![4 lege klassen genaamd ventilator_aan, ventilator_uit, lamp_aan en lamp_uit](images/empty-buckets.png)
++ To create a bucket, click on **+ Add new label** and call the bucket “fan on”. Click on **+ Add new label** again and create a second bucket called “fan off”. Create a third and a fourth bucket called “lamp on” and "lamp off". ![4 lege klassen genaamd ventilator_aan, ventilator_uit, lamp_aan en lamp_uit](images/empty-buckets.png)
 
-+ Klik op de knop **Voeg een voorbeeld toe** in de emmer 'ventilator aan' en typ een opdracht waarin wordt gevraagd om de ventilator aan te zetten. Je kunt bijvoorbeeld typen "Kun je de ventilator inschakelen".
++ Click on the **Add example** button in the “fan on” bucket, and type in a command asking for the fan to be turned on. Je kunt bijvoorbeeld typen "Kun je de ventilator inschakelen".
 
-+ Klik op de knop **Voeg een voorbeeld toe** in de emmer 'ventilator uit' en typ een opdracht waarin wordt gevraagd om de ventilator uit te zetten. Je kunt bijvoorbeeld typen: "Ik wil de ventilator nu uit".
++ Click on the **Add example** button in the “fan off” bucket, and type in a command asking for the fan to be switched off. Je kunt bijvoorbeeld typen: "Ik wil de ventilator nu uit".
 
-+ Doe hetzelfde voor de emmers "lamp aan" en "lamp uit".
++ Do the same for the “lamp on” and “lamp off” buckets.
 
 \--- /task \---
 
 \--- task \---
-+ Continue to **Add example**s until you have at least **six** examples in **each** bucket.
++ Ga verder met **Voeg een voorbeeld toe** toe totdat je ten minste **zes** voorbeelden hebt in **elke** emmer.
 
 Wees fantasierijk! Probeer verschillende manieren te bedenken om elke opdracht te geven. Bijvoorbeeld:
 
