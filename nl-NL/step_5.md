@@ -1,28 +1,28 @@
-## Train and test a machine learning model
+## Train en test een machine learning-model
 
-You will now train the program using the examples, and then test it.
+Je traint nu het programma met behulp van de voorbeelden en test het vervolgens.
 
-The program will learn from patterns in the examples you give it, such as the choice of words and the way sentences are structured. Then, based on the patterns the program finds, it can interpret new commands.
+Het programma leert van patronen in de voorbeelden die je geeft, zoals de woordkeuze en de manier waarop zinnen zijn gestructureerd. Vervolgens kan het, op basis van de patronen die het programma vindt, nieuwe opdrachten interpreteren.
 
 \--- task \---
-+ Click on the **< Back to project** link, then click on **Learn & Test**.
++ Klik op de link **< Terug naar project** en klik vervolgens op **Leer & Test**.
 
-+ Click on the **Train new machine learning model** button. If you have enough examples, the program should start to learn how to recognise commands from these examples.
++ Klik op de knop **Train nieuwe machine learning model**. Als je genoeg voorbeelden hebt, zou het programma moeten beginnen te leren hoe opdrachten uit deze voorbeelden te herkennen.
 
-![Annotation pointing to train new machine learning model button](images/train-new-model-annotated.png) \--- /task \---
+![Annotatie die wijst op het trainen van de knop voor het nieuwe model voor machine learning](images/train-new-model-annotated.png) \---/task\---
 
-Wait for the training to complete. This might take a minute or two. While you wait, complete the machine-learning multi-choice quiz at the bottom of the page.
+Wacht tot de training is voltooid. Dit kan een minuut of twee duren. Terwijl je wacht, voltooi je de machine-learning meerkeuzevragen onderaan de pagina.
 
-\--- task \--- Once the training has completed, a test box appears. Test your machine learning model to see what it has learned.
+\--- task \--- Nadat de training is voltooid, verschijnt een testvak. Test je machine learning-model om te zien wat het heeft geleerd.
 
-+ Type in one of the commands you added to a bucket, and then press <kbd>Enter</kbd>. The command should be recognised.
++ Typ een van de opdrachten die je aan een emmer hebt toegevoegd en druk vervolgens op <kbd>Test</kbd>. De opdracht zou herkend moeten worden.
 
-+ Type in **commands that are not in the buckets**.
++ Typ **opdrachten die zich niet in de emmers bevinden**.
 
-If you’re not happy with how the computer recognises the commands, go back to the previous step and add some more examples. Then **train new machine learning model** again.
+Als je niet tevreden bent met hoe de computer de opdrachten herkent, ga je terug naar de vorige stap en voeg je nog enkele voorbeelden toe. Dan **train nieuw machine learning model** opnieuw.
 
-![Annotation pointing to train new machine learning model button](images/test-new-model-annotated.png) \--- /task \---
+![Annotatie die wijst op de knop voor het trainen van het nieuwe model voor machine learning](images/test-new-model-annotated.png) \--- /task \---
 
-Instead of writing rules for the program, you are giving the program examples. The program uses the examples to train a machine learning **model**.
+In plaats van regels voor het programma te schrijven, geef je de programmavoorbeelden. Het programma gebruikt de voorbeelden om een machine learning-**model** te trainen.
 
-Because you are supervising the program's training by giving examples, this machine learning approach is called **supervised learning**.
+Omdat je de training van het programma begeleidt door voorbeelden te geven, wordt deze machine learning-aanpak **supervised learning** (leren onder toezicht) genoemd.
