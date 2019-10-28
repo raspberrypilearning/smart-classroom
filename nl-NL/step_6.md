@@ -11,19 +11,19 @@ Werk nu je Scratch-programma bij met je machine learning-model in plaats van een
 
 + Lees de instructies op de pagina voor meer informatie over het gebruik van machine learning-blokken in Scratch.
 
-+ Click on **Open in Scratch 3**.
++ Klik op **Openen in Scratch 3**.
 
 ![annotation pointing at Open in scratch 3 button](images/open-scratch-3-annotated.png)
 
-+ Click on **File** and then on **Load from your computer**, and select the Scratch project you saved earlier.
++ Klik op **Bestand** en vervolgens op **Uploaden vanaf je computer**en selecteer het eerder opgeslagen Scratch-project.
 
-+ When Scratch asks you whether to replace the current project, click on **OK**.
++ Wanneer Scratch je vraagt of het huidige project moet worden vervangen, klik je op **OK**.
 
-\--- /task \---
+\---/task\---
 
 \--- task \---
 
-+ Click on the **Code** tab, and update your Scratch code to use your machine learning model **instead** of the rules you first added.
++ Klik op het tabblad **Code** en werk je Scratch-code bij om je machine learning-model **in plaats** van de regels die je eerst hebt toegevoegd.
 
 The `recognise text … (label)` block is a new block added by your project. This new block can receive a message and return one of the four labels, based on the machine learning model you have trained.
 
