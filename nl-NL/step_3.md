@@ -1,53 +1,53 @@
-## Add a list of rules
+## Voeg een lijst met regels toe
 
-In this step, you will edit the project to include a list of rules to activate and de-activate the fan and the lamp.
+In deze stap bewerk je het project met een lijst met regels voor het aan- en uitzetten van de ventilator en de lamp.
 
 \--- task \---
-+ Click the **classroom** sprite to select it, as shown below:
++ Klik op de sprite van **klas** om deze te selecteren, zoals hieronder weergegeven:
 
-![Scratch template project](images/scratch-template-annotated.png)
+![Scratch sjabloonproject](images/scratch-template-annotated.png)
 
-+ Click on the **Scripts** tab and create the following script:
++ Klik op het tabblad **Code** en maak het volgende script:
 
 ```blocks3
-when green flag clicked
-forever
-ask [Enter your command] and wait
-if <(answer) = [Turn on the fan]> then
-broadcast (turn-fan-on v)
+wanneer groene vlag wordt aangeklikt
+herhaal 
+vraag [Voer je opdracht in] en wacht
+als <(antwoord) = [Zet de ventilator aan]> dan 
+zend signaal (zet-ventilator-aan v)
 end
-if <(answer) = [Turn off the fan]> then
-broadcast (turn-fan-off v)
+als <(antwoord) = [Zet de ventilator uit]> dan 
+zend signaal (zet-ventilator-uit v)
 end
-if <(answer) = [Turn on the lamp]> then
-broadcast (turn-lamp-on v)
+als <(antwoord) = [Zet de lamp aan]> dan 
+zend signaal (zet-lamp-aan v)
 end
-if <(answer) = [Turn off the lamp]> then
-broadcast (turn-lamp-off v)
+als <(antwoord) = [Zet de lamp uit]> dan 
+zend signaal (zet-lamp-uit v)
 end
 end
 ```
 
-+ Click on **File** and then on **Save to your computer**, and save the program to a file. \--- /task \---
++ Klik op **Bestand** en vervolgens op **Opslaan op je computer** en sla het programma op in een bestand. \--- /task \---
 
 \--- task \---
 
-+ Click on the **green flag** to test your program.
++ Klik op de **groene vlag** om je programma te testen.
 
-![Scratch interface just after green flag is clicked](images/click-flag-annotated.png)
+![Scratch-interface net nadat op de groene vlag is geklikt](images/click-flag-annotated.png)
 
-+ Type in a command and watch the program react! The following commands should all work:
-    * “Turn on the lamp”
-    * “Turn off the lamp”
-    * “Turn on the fan”
-    * “Turn off the fan”
++ Typ een opdracht in en kijk hoe het programma reageert! De volgende opdrachten zouden allemaal moeten werken:
+    * "Zet de lamp aan"
+    * "Zet de lamp uit"
+    * "Zet de ventilator aan"
+    * "Zet de ventilator uit"
 
-* Type in anything else, and your program does nothing! Even if you make a small spelling mistake, the program does not react.
+* Typ iets anders en je programma doet niets! Zelfs als je een kleine spelfout maakt, reageert het programma niet.
 
 \--- /task \---
 
-You’re telling your virtual classroom assistant to react to commands using a simple rules-based approach. But if you wanted your program to understand commands that are phrased differently, you would need to add extra `if` blocks.
+Je vertelt je virtuele klassenassistent om op opdrachten te reageren met een eenvoudige, op regels gebaseerde aanpak. Maar als je wilt dat je programma opdrachten begrijpt die anders zijn geformuleerd, moet je extra `als` blokken toevoegen.
 
-The problem with this rules-based approach is that you need to exactly predict all the commands the smart classroom assistant will get. Listing every possible command would take a very, very long time.
+Het probleem met deze op regels gebaseerde benadering is dat je precies alle opdrachten moet voorspellen die de slimme klassenassistent krijgt. Het noteren van elke mogelijk opdracht zou heel, heel lang duren.
 
-Next, you will try a better approach: teaching the computer to recognise commands by itself.
+Vervolgens probeer je nu een betere aanpak: de computer leren opdrachten zelf te herkennen.
