@@ -1,56 +1,56 @@
-## Introduction
+## Inleiding
 
-In this project you will use [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk){:target="_blank"} to make a smart virtual classroom assistant that reacts to what you say to it. You’ll be able to control the virtual devices in the classroom by typing in commands!
+In dit project gebruik je [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk){:target="_blank"} om een slimme virtuele klassenassistent te maken die reageert op wat je ertegen zegt. Je kunt de virtuele apparaten in de klas besturen door opdrachten in te voeren!
 
-First, you’ll create an assistant that uses a list of rules for understanding commands, and you'll learn why that approach isn’t very good.
+Eerst maak je een assistent die een lijst met regels gebruikt om opdrachten te begrijpen, en leer je waarom die aanpak niet erg goed is.
 
-Next, you will teach the assistant to recognise commands for different devices by training it using examples of each command.
+Vervolgens leer je de assistent om opdrachten voor verschillende apparaten te herkennen door deze te trainen met voorbeelden van elke opdracht.
 
-### What you will make
+### Wat ga je maken
 
 \--- print-only \---
 
-![Complete project](images/what-you-will-make.png)
+![Voltooid project](images/what-you-will-make.png)
 
 \--- /print-only \---
 
 \--- no-print \---
 
-![Complete project GIF](images/smart-classroom.gif)
+![GIF van voltooid project](images/smart-classroom.gif)
 
 \--- /no-print \---
 
 \--- collapse \---
 ---
-title: What you will learn
+title: Wat ga je leren
 ---
 
-+ How to train and test a machine learning model
-+ Why this approach is better than using a long list of rules
-+ How confidence scores can improve the user experience
++ Een machine learning-model trainen en testen
++ Waarom deze aanpak beter is dan het gebruik van een lange lijst met regels
++ Hoe vertrouwensscores de gebruikerservaring kunnen verbeteren
 
 \--- /collapse \---
 
 \--- collapse \---
 ---
-title: What you will need
+title: Wat heb je nodig
 ---
 
-+ A computer connected to the internet
++ Een computer verbonden met internet
 
 \--- /collapse \---
 
 \--- collapse \---
 ---
-title: Additional information for educators
+title: Aanvullende informatie voor docenten
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/smart-classroom/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/smart-classroom/print) {:target="_blank"}.
 
 \--- /collapse \---
 
-### Licence
+### Licentie
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
+Dit project heeft een dubbele licentie onder zowel een [Creative Commons Attribution Non-Commercial Share-Alike-licentie](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} en een [Apache-licentie versie 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
 
-We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+We willen Dale van machinelearningforkids.co.uk graag bedanken voor al zijn werk aan dit project.
