@@ -21,7 +21,7 @@ Je moet enkele voorbeelden verzamelen om de computer te trainen. To collect diff
 \--- /task \---
 
 \--- task \---
-+ Ga verder met **Voeg een voorbeeld toe** toe totdat je ten minste **zes** voorbeelden hebt in **elke** emmer.
++ Continue to **Add example**s until you have at least **six** examples in **each** bucket.
 
 Wees fantasierijk! Probeer verschillende manieren te bedenken om elke opdracht te geven. Bijvoorbeeld:
 
@@ -44,4 +44,4 @@ title: Tips voor het selecteren van goede voorbeelden
 
 \--- /collapse \--- \--- /task \---
 
-In de volgende stap zult je je programma trainen om elke nieuwe opdracht automatisch te herkennen door deze te vergelijken met de voorbeelden in de vier emmers.
+In the next step you will train your program to recognise any new command automatically by comparing it to the examples in the four buckets.
