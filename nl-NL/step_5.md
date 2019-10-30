@@ -15,7 +15,7 @@ Wacht tot de training is voltooid. Dit kan een minuut of twee duren. Terwijl je 
 
 \--- task \--- Nadat de training is voltooid, verschijnt een testvak. Test je machine learning-model om te zien wat het heeft geleerd.
 
-+ Type in one of the commands you added to a bucket, and then press <kbd>Enter</kbd>. De opdracht zou herkend moeten worden.
++ Typ een van de opdrachten die je aan een container hebt toegevoegd en druk vervolgens op <kbd>Test</kbd>. De opdracht zou herkend moeten worden.
 
 + Typ **opdrachten die zich niet in de emmers bevinden**.
 
