@@ -36,7 +36,7 @@ Het blok `herkennen tekst … (label)` is een nieuw blok dat door je project is 
 
 + Test je project: typ een opdracht en druk op <kbd>Enter</kbd> op je toetsenbord. De ventilator of lamp moet op je commando reageren.
 
-Make sure you test that this works **even for commands that you didn’t include as examples in the buckets.**
+Zorg ervoor dat je test of dit werkt, **zelfs voor opdrachten die je niet als voorbeelden in de containers hebt opgenomen.**
 
 + Sla je project op: klik op **Bestand** en vervolgens op **Opslaan op je computer**. \---/task\---
 
