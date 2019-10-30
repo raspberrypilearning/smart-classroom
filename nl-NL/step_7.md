@@ -13,7 +13,7 @@ Ten slotte leer je wat betrouwbaarheidsscores betekenen en hoe je ze moet gebrui
 
 + Vergelijk dit met de betrouwbaarheidsscore die je krijgt voor een commando zoals "doe de lamp aan".
 
-**De betrouwbaarheidsscore is de manier van het programma om je te vertellen hoe zeker het is dat het een opdracht begrijpt.** Als een opdracht erg lijkt op de voorbeelden waarmee je het programma hebt getraind, is de betrouwbaarheidsscore hoog. If a command is **not** similar, the confidence score is low.
+**De betrouwbaarheidsscore is de manier van het programma om je te vertellen hoe zeker het is dat het een opdracht begrijpt.** Als een opdracht erg lijkt op de voorbeelden waarmee je het programma hebt getraind, is de betrouwbaarheidsscore hoog. Als een opdracht **niet** vergelijkbaar is, is de betrouwbaarheidsscore laag.
 
 \--- /task \---
 
