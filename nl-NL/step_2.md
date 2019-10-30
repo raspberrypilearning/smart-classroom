@@ -12,7 +12,7 @@
 
 + Klik op de knop **+ Voeg een nieuw project toe**.
 
-+ Name your project 'smart classroom' and set it to learn to recognise **text**.  Klik vervolgens op **Creëer**. ![Een project maken](images/create-project-annotated.png)
++ Noem je project 'slim klaslokaal', stel het in om **tekst** te leren herkennen en stel de taal in op Dutch (Nederlands).  Then click on **Create**. ![Een project maken](images/create-project-annotated.png)
 
 + Je zou nu 'slim klaslokaal' moeten zien in de projectenlijst. Klik op dit project. ![Project list with smart classroom listed](images/projects-list-annotated.png) \--- /task \---
 
