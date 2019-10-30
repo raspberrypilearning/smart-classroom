@@ -8,20 +8,20 @@
 \--- task \---
 + Klik op de knop **Train**. ![Project hoofdmenu](images/project-train-annotated.png)
 
-Je moet enkele voorbeelden verzamelen om de computer te trainen. To collect different examples, you need to create 'buckets' to put the examples in.
+Je moet enkele voorbeelden verzamelen om de computer te trainen. Om verschillende voorbeelden te verzamelen, moet je 'containers' maken om de voorbeelden in te plaatsen.
 
-+ To create a bucket, click on **+ Add new label** and call the bucket “fan on”. Click on **+ Add new label** again and create a second bucket called “fan off”. Create a third and a fourth bucket called “lamp on” and "lamp off". ![4 lege klassen genaamd ventilator_aan, ventilator_uit, lamp_aan en lamp_uit](images/empty-buckets.png)
++ Om een container te maken, klik op **+ Voeg een nieuw label toe** en noem de container “ventilator aan”. Klik weer op **+ Voeg een nieuw label toe** en maak een tweede container met de naam "ventilator uit". Maak een derde en een vierde container genaamd "lamp aan" en "lamp uit". ![4 lege klassen genaamd ventilator_aan, ventilator_uit, lamp_aan en lamp_uit](images/empty-buckets.png)
 
-+ Click on the **Add example** button in the “fan on” bucket, and type in a command asking for the fan to be turned on. Je kunt bijvoorbeeld typen "Kun je de ventilator inschakelen".
++ Klik op de knop **Voeg een voorbeeld toe** in de container 'ventilator aan' en typ een opdracht waarin wordt gevraagd om de ventilator aan te zetten. Je kunt bijvoorbeeld typen "Kun je de ventilator inschakelen".
 
-+ Click on the **Add example** button in the “fan off” bucket, and type in a command asking for the fan to be switched off. Je kunt bijvoorbeeld typen: "Ik wil de ventilator nu uit".
++ Klik op de knop **Voeg een voorbeeld toe** in de container 'ventilator uit' en typ een opdracht waarin wordt gevraagd om de ventilator uit te zetten. Je kunt bijvoorbeeld typen: "Ik wil de ventilator nu uit".
 
-+ Do the same for the “lamp on” and “lamp off” buckets.
++ Doe hetzelfde voor de containers "lamp aan" en "lamp uit".
 
 \--- /task \---
 
 \--- task \---
-+ Continue to **Add example**s until you have at least **six** examples in **each** bucket.
++ Ga verder met **Voeg een voorbeeld toe** toe totdat je ten minste **zes** voorbeelden hebt in **elke** container.
 
 Wees fantasierijk! Probeer verschillende manieren te bedenken om elke opdracht te geven. Bijvoorbeeld:
 
@@ -44,4 +44,4 @@ title: Tips voor het selecteren van goede voorbeelden
 
 \--- /collapse \--- \--- /task \---
 
-In the next step you will train your program to recognise any new command automatically by comparing it to the examples in the four buckets.
+In de volgende stap zult je je programma trainen om elke nieuwe opdracht automatisch te herkennen door deze te vergelijken met de voorbeelden in de vier containers.
