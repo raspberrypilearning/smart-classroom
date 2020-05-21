@@ -32,7 +32,7 @@ Het blok `herkennen tekst … (label)` is een nieuw blok dat door je project is 
 --- task ---
 + Klik op de **groene vlag** om opnieuw te testen.
 
-![Testen van nieuwe code van vorige instructie](images/test-with-new-blocks-annotated)
+![Testen van nieuwe code van vorige instructie](images/test-with-new-blocks-annotated.png)
 
 + Test je project: typ een opdracht en druk op <kbd>Enter</kbd> op je toetsenbord. De ventilator of lamp moet op je commando reageren.
 
