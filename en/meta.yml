@@ -8,14 +8,16 @@ copyedit: true
 last_tested: '2019-05-09'
 steps:
 - title: Introduction
-  completion: engaged
 - title: How to create a project
 - title: Add a list of rules
+  completion:
+  - engaged
 - title: Collect examples for training
 - title: Train and test a machine learning model
 - title: Use the machine learning model in Scratch
-  completion: internal
 - title: How to use confidence scores
+  completion:
+  - internal
 - title: 'Challenge: more items to control'
   challenge: true
 - title: What next?
