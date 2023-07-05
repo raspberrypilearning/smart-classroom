@@ -11,7 +11,7 @@
 
 --- task ---
 
-**Try our different confidence scores**
+**Try out different confidence scores**
 
 + Is 70% the correct confidence score for deciding whether the smart classroom assistant has recognised a command correctly? Experiment with different confidence scores until you have a value that works well for your machine learning model. 
 
